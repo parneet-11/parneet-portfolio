@@ -1,0 +1,7 @@
+# JavaScript/Node project - run `npm install` instead
+# Included here for reference only
+react
+react-dom
+tailwindcss
+typescript
+vite
